@@ -1,6 +1,7 @@
-#include <iostream>
+#include "Menu.h"
 
 int main() {
-    std::cout << "Student Management System\n";
+    Menu menu;
+    menu.run();
     return 0;
 }
