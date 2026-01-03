@@ -8,11 +8,6 @@ include_directories(include)
 
 add_executable(StudentManager
     src/main.cpp
-)
-
-
-add_executable(StudentManager
-    src/main.cpp
     src/StudentRepository.cpp
     src/FileStorage.cpp
     src/Menu.cpp
