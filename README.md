@@ -21,7 +21,3 @@ Qëllimi kryesor i projektit është:
 - dokumentim dhe vizualizim të logjikës së aplikacionit
 
 ---
-
-## 🧩 Struktura e Projektit
-
-
